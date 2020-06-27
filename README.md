@@ -22,8 +22,3 @@ Las Vegas dice app with 2019/2020 design. Roll a dice project like I wrote on Ja
 * ✅ Learn about randomisation and how to generate random numbers in Swift.
 
 
-
->This is a companion project to The App Brewery's Complete App Development Bootcamp, check out the full course at [www.appbrewery.co](https://www.appbrewery.co/)
-
-![End Banner](Documentation/readme-end-banner.png)
-
